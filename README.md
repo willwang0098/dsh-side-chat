@@ -1,5 +1,9 @@
 # dsh-side-chat
 
+> DSH plugin for an independent Codex-style side chat in Better Sidebar.
+
+Keywords: `dsh-plugin` `deepseek-harness` `better-sidebar` `side-chat`
+
 `dsh-side-chat` 为 DSH Better Sidebar 增加一个类似 Codex 侧边提问的独立对话面板。
 
 ## 功能

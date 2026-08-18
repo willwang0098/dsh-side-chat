@@ -2,6 +2,14 @@
   "name": "@dsh-external/dsh-side-chat",
   "version": "0.1.0",
   "description": "Independent context-aware side chat for the DSH Better Sidebar.",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "better-sidebar",
+    "side-chat",
+    "codex-style"
+  ],
   "type": "module",
   "main": "./lib/index.js",
   "types": "./lib/types/index.d.ts",
