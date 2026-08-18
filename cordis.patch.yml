@@ -1,0 +1,4 @@
+# Mount the host half and the client bundle as one DSH plugin layer.
+- insert:
+    - id: dsh-side-chat
+      name: '@dsh-external/dsh-side-chat'
